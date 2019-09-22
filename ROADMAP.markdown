@@ -1,0 +1,3 @@
+- Store file URLs in yaml file
+  - file_hash: share link
+- If no file URL exists, use API to generate one
